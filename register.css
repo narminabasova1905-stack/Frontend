@@ -29,13 +29,14 @@ h1{
 label{
     color:white;
     display:block;
-    margin-bottom :5px;;
+    padding-top :5px;
 }
 
 input{
     border:1px solid;
     display:block;
-    margin-bottom:20px ;
+    margin-bottom:10px ;
+   
 }
 
 
@@ -46,6 +47,7 @@ input{
 button{
     
     border-radius:15%;
+    margin-top:5px;
 }
 button:hover{
 
